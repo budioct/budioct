@@ -1,10 +1,10 @@
 # Hi there, I'm Budhi Octaviansyah 👋
 
 <a href="https://www.linkedin.com/in/budhi-octaviansyah/">
-  <img alt="Siva's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Budhi's Linkdein" width="23px" src="https://api.iconify.design/logos:linkedin-icon.svg?color=%230077B5" />
 </a> &nbsp;
 <a href="https://twitter.com/budioct">
-  <img alt="budioct's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="budioct's Twitter" width="23px" src="https://api.iconify.design/logos:twitter.svg" />
 </a> &nbsp;
 <br/>
 <br/>
