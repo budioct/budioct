@@ -18,7 +18,7 @@
 
 ## Key Repositories
 * [Handle Http Client](https://github.com/budioct/handle-http-client) - Spring Boot Http Client with RestTemplate, WebClient, OpenFeign
-* [Warung Budeeee'Jum](https://github.com/budioct/fullstack-warung-budeee-jum) - Fullstack Restoran based Spring Boot Microservice with Web Vuejs + Vite
+* [Warung Budeeee'Jum](https://github.com/budioct/fullstack-warung-budeee-jum) - Fullstack Restaurant based Spring Boot Microservice with Web Vuejs + Vite
 * [Microservice Spring Boot 3](https://github.com/budioct/simple-microservice-spring-boot-3) - Microservices Architecture Java Spring Boot
 * [RESTful API Spring Boot](https://github.com/budioct/simple_rest_java_springboot) - RESTful API Java Spring Boot
 * [Bank Transfer Concurrency Mechanisms](https://github.com/budioct/project-mini-interbank-transfer) - Java concurrency mechanisms
