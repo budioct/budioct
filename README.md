@@ -17,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/budhi-octaviansyah/)](https://www.linkedin.com/in/budhi-octaviansyah/)
 
 ## Key Repositories
+* [GASKITA Natural Resource Gas](https://github.com/budioct/fullstack-gaskita-natural-resource-gas) - Fullstack GASKITA Manage Resource Gas based Spring Boot Microservice with Web Vuejs + Vite
 * [Handle Http Client](https://github.com/budioct/handle-http-client) - Spring Boot Http Client with RestTemplate, WebClient, OpenFeign
 * [Warung Budeeee'Jum](https://github.com/budioct/fullstack-warung-budeee-jum) - Fullstack Restaurant based Spring Boot Microservice with Web Vuejs + Vite
 * [Microservice Spring Boot 3](https://github.com/budioct/simple-microservice-spring-boot-3) - Microservices Architecture Java Spring Boot
