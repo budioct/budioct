@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-- 💻  Building Software since 2021
+- 💻  Building Software since 2022
 - 💬  Extensively worked on Java, PHP, Javascript, Spring Boot, Docker, etc
 - 🌱  Interested in learning new technologies.
 
