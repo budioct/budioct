@@ -1,20 +1,12 @@
 # Hi there, I'm Budhi Octaviansyah 👋
 
-<a href="https://www.linkedin.com/in/budhi-octaviansyah/">
-  <img alt="Budhi's Linkdein" width="23px" src="https://api.iconify.design/logos:linkedin-icon.svg?color=%230077B5" />
-</a> &nbsp;
-<a href="https://twitter.com/budioct">
-  <img alt="budioct's Twitter" width="23px" src="https://api.iconify.design/logos:twitter.svg" />
-</a> &nbsp;
-<br/>
-<br/>
-
-- 💻  Building Software since 2022
-- 💬  Extensively worked on Java, PHP, Javascript, Spring Boot, Docker, etc
-- 🌱  Interested in learning new technologies.
+-   Building Software since 2022
+-   Extensively worked on Java, PHP, Javascript, Spring Boot, Docker, etc
+-   Interested in learning new technologies.
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/budhi-octaviansyah/)](https://www.linkedin.com/in/budhi-octaviansyah/)
+[![Budhi Octaviasyah](https://custom-icon-badges.demolab.com/badge/Budhi%20Octaviansyah-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/budhi-octaviansyah/) 
+[![budioct](https://img.shields.io/badge/budioct-%23000000.svg?logo=X&logoColor=white)](https://x.com/budioct)
 
 ## Key Repositories
 * [GASKITA Natural Resource Gas](https://github.com/budioct/fullstack-gaskita-natural-resource-gas) - Fullstack GASKITA Manage Resource Gas based Spring Boot Microservice with Web Vuejs + Vite
