@@ -9,6 +9,7 @@
 [![budioct](https://img.shields.io/badge/budioct-%23000000.svg?logo=X&logoColor=white)](https://x.com/budioct)
 
 ## Key Repositories
+* [Blogging Application](https://github.com/budioct/fullstack-blog-app.git) - blogging platform allows to create, manage content 
 * [Performance Testing](https://github.com/budioct/performance-testing-spring-boot) - Performance Testing API with Cache Redis
 * [Stream Data](https://github.com/budioct/apache-kafka-with-spring-boot) - Consume Stream Data, Publish and Subscribe Message Data from Apache Kafka
 * [GASKITA Natural Resource Gas](https://github.com/budioct/fullstack-gaskita-natural-resource-gas) - Fullstack GASKITA Manage Resource Gas based Spring Boot Microservice with Web Vuejs + Vite
